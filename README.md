@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr]" width="100"/>
+  <img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" width="100"/>
 </div>
 ## Hi there 👋
 
